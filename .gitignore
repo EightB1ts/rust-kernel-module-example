@@ -1,0 +1,6 @@
+/src/Cargo.lock
+/testing
+/src/Kbuild
+/src/Makefile
+/src/*.ko
+/linux
